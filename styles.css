@@ -38,6 +38,11 @@ a{
 .iconmenu{
     visibility : hidden;
 }
+.selected{
+    color: #FF6464;
+}
+
+
 .main .introduction{
     display: flex;
     flex-direction: row;
